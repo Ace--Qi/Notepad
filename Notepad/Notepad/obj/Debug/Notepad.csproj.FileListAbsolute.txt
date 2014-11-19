@@ -1,0 +1,12 @@
+E:\c#程序\Notepad\Notepad\bin\Debug\Notepad.exe.config
+E:\c#程序\Notepad\Notepad\bin\Debug\Notepad.exe
+E:\c#程序\Notepad\Notepad\bin\Debug\Notepad.pdb
+E:\c#程序\Notepad\Notepad\obj\Debug\Notepad.csprojResolveAssemblyReference.cache
+E:\c#程序\Notepad\Notepad\obj\Debug\Notepad.frmNotepad.resources
+E:\c#程序\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+E:\c#程序\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.Cache
+E:\c#程序\Notepad\Notepad\obj\Debug\Notepad.exe
+E:\c#程序\Notepad\Notepad\obj\Debug\Notepad.pdb
+E:\c#程序\Notepad\Notepad\obj\Debug\Notepad.frmAbout.resources
+E:\c#程序\Notepad\Notepad\obj\Debug\Notepad.frmSearch.resources
+E:\c#程序\Notepad\Notepad\obj\Debug\Notepad.frmReplace.resources
